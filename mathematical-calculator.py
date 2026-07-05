@@ -1,9 +1,7 @@
-# ====================================
-# MATHEMATICAL CALCULATOR (MC)
-# ====================================
+
 
 print("=" * 40)
-print("     MATHEMATICAL CALCULATOR")
+print("     LORD ATKIN CALCULATOR (LC)")
 print("=" * 40)
 
 while True:
