@@ -1,5 +1,3 @@
-
-
 print("=" * 40)
 print("     LORD ATKIN CALCULATOR (LC)")
 print("=" * 40)
